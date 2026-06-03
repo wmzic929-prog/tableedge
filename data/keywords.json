@@ -1,0 +1,1026 @@
+{
+  "keywords": [
+    {
+      "id": 1,
+      "keyword": "百家樂莊閒機率是多少？數學解析",
+      "category": "百家樂",
+      "angle": "疑問句型",
+      "image_theme": "baccarat probability mathematics statistics",
+      "status": "used",
+      "writing_style": "統計分析師語氣，含機率表格，900字",
+      "slug": "baccarat-banker-player-odds-math",
+      "used_date": "2026-05-21"
+    },
+    {
+      "id": 2,
+      "keyword": "百家樂路單有用嗎？統計學分析",
+      "category": "百家樂",
+      "angle": "疑問句型",
+      "image_theme": "baccarat road scoreboard statistical analysis",
+      "status": "used",
+      "writing_style": "批判性分析，引用隨機性理論，950字",
+      "slug": "baccarat-road-reading-statistical-analysis",
+      "used_date": "2026-05-22"
+    },
+    {
+      "id": 3,
+      "keyword": "為什麼百家樂莊家有優勢？",
+      "category": "百家樂",
+      "angle": "疑問句型",
+      "image_theme": "baccarat banker advantage house edge",
+      "status": "used",
+      "writing_style": "機率解釋，含數學推導，900字",
+      "slug": "baccarat-banker-advantage-explained",
+      "used_date": "2026-05-22"
+    },
+    {
+      "id": 4,
+      "keyword": "百家樂停損策略怎麼設定？",
+      "category": "百家樂",
+      "angle": "疑問句型",
+      "image_theme": "baccarat stop loss strategy bankroll",
+      "status": "used",
+      "writing_style": "風險管理框架，含百分比設定，850字",
+      "slug": "article",
+      "used_date": "2026-05-22"
+    },
+    {
+      "id": 5,
+      "keyword": "如何計算百家樂的期望值？",
+      "category": "百家樂",
+      "angle": "疑問句型",
+      "image_theme": "baccarat expected value calculation formula",
+      "status": "used",
+      "writing_style": "公式推導+範例，950字",
+      "slug": "baccarat-expected-value-calculation",
+      "used_date": "2026-05-23"
+    },
+    {
+      "id": 6,
+      "keyword": "歐式輪盤和美式輪盤有什麼分別？",
+      "category": "輪盤",
+      "angle": "疑問句型",
+      "image_theme": "european american roulette difference comparison",
+      "status": "used",
+      "writing_style": "比較分析，含RTP差異表格，900字",
+      "slug": "article",
+      "used_date": "2026-05-23"
+    },
+    {
+      "id": 7,
+      "keyword": "輪盤投注系統有效嗎？馬丁格爾分析",
+      "category": "輪盤",
+      "angle": "疑問句型",
+      "image_theme": "roulette betting system martingale analysis",
+      "status": "used",
+      "writing_style": "統計批判分析，含模擬數據，950字",
+      "slug": "roulette-martingale-system-analysis",
+      "used_date": "2026-05-23"
+    },
+    {
+      "id": 8,
+      "keyword": "為什麼輪盤長期必輸？數學原因",
+      "category": "輪盤",
+      "angle": "疑問句型",
+      "image_theme": "roulette house edge mathematics long term",
+      "status": "used",
+      "writing_style": "數學解釋，中立客觀，850字",
+      "slug": "article",
+      "used_date": "2026-05-24"
+    },
+    {
+      "id": 9,
+      "keyword": "21點基本策略表怎麼用？",
+      "category": "21點",
+      "angle": "疑問句型",
+      "image_theme": "blackjack basic strategy card chart",
+      "status": "used",
+      "writing_style": "教學格式，含策略表格圖解，900字",
+      "slug": "article",
+      "used_date": "2026-05-24"
+    },
+    {
+      "id": 10,
+      "keyword": "21點算牌技術合法嗎？",
+      "category": "21點",
+      "angle": "疑問句型",
+      "image_theme": "blackjack card counting legal casino",
+      "status": "used",
+      "writing_style": "法律+技術分析，客觀，800字",
+      "slug": "21-point-card-counting-legality-hk",
+      "used_date": "2026-05-24"
+    },
+    {
+      "id": 11,
+      "keyword": "真人荷官和電腦荷官有什麼分別？",
+      "category": "荷官技術",
+      "angle": "疑問句型",
+      "image_theme": "live dealer vs RNG casino comparison",
+      "status": "used",
+      "writing_style": "功能比較，含玩家體驗分析，900字",
+      "slug": "article",
+      "used_date": "2026-05-25"
+    },
+    {
+      "id": 12,
+      "keyword": "真人娛樂場串流品質怎麼判斷？",
+      "category": "荷官技術",
+      "angle": "疑問句型",
+      "image_theme": "live casino streaming quality assessment",
+      "status": "used",
+      "writing_style": "技術評測角度，含指標清單，850字",
+      "slug": "live-casino-streaming-quality-guide",
+      "used_date": "2026-05-25"
+    },
+    {
+      "id": 13,
+      "keyword": "如何選擇真人百家樂桌？",
+      "category": "百家樂",
+      "angle": "疑問句型",
+      "image_theme": "live baccarat table selection criteria",
+      "status": "used",
+      "writing_style": "選擇指南，含最低注額說明，900字",
+      "slug": "how-to-choose-live-baccarat-table",
+      "used_date": "2026-05-25"
+    },
+    {
+      "id": 14,
+      "keyword": "骰寶機率是多少？完整分析",
+      "category": "荷官技術",
+      "angle": "疑問句型",
+      "image_theme": "sic bo probability statistics odds",
+      "status": "used",
+      "writing_style": "機率表格+說明，900字",
+      "slug": "sic-bo-probability-full-analysis",
+      "used_date": "2026-05-26"
+    },
+    {
+      "id": 15,
+      "keyword": "真人21點和一般21點勝率有差嗎？",
+      "category": "21點",
+      "angle": "疑問句型",
+      "image_theme": "live blackjack vs RNG blackjack win rate",
+      "status": "used",
+      "writing_style": "比較分析，含RTP數據，850字",
+      "slug": "2121",
+      "used_date": "2026-05-26"
+    },
+    {
+      "id": 16,
+      "keyword": "百家樂莊閒和合的賠率比較",
+      "category": "百家樂",
+      "angle": "數據比較型",
+      "image_theme": "baccarat banker player tie payout comparison",
+      "status": "used",
+      "writing_style": "數據表格為主，含期望值計算，900字",
+      "slug": "baccarat-banker-player-tie-odds-analysis",
+      "used_date": "2026-05-26"
+    },
+    {
+      "id": 17,
+      "keyword": "五大真人遊戲平台RTP排名比較",
+      "category": "平台選擇",
+      "angle": "數據比較型",
+      "image_theme": "live casino platform RTP ranking comparison",
+      "status": "used",
+      "writing_style": "平台評測報告，含RTP數據表，1000字",
+      "slug": "live-casino-platform-rtp-ranking-2026",
+      "used_date": "2026-05-26"
+    },
+    {
+      "id": 18,
+      "keyword": "各種輪盤投注方式期望值比較",
+      "category": "輪盤",
+      "angle": "數據比較型",
+      "image_theme": "roulette betting types expected value comparison",
+      "status": "used",
+      "writing_style": "數學分析，含EV表格，900字",
+      "slug": "roulette-betting-expected-value-comparison",
+      "used_date": "2026-05-26"
+    },
+    {
+      "id": 19,
+      "keyword": "百家樂 vs 21點：哪個賭場優勢更低？",
+      "category": "百家樂",
+      "angle": "數據比較型",
+      "image_theme": "baccarat vs blackjack house edge comparison",
+      "status": "used",
+      "writing_style": "量化比較，含歷史數據，950字",
+      "slug": "baccarat-vs-blackjack-house-edge-comparison",
+      "used_date": "2026-05-26"
+    },
+    {
+      "id": 20,
+      "keyword": "真人娛樂場最低注額平台比較",
+      "category": "平台選擇",
+      "angle": "數據比較型",
+      "image_theme": "live casino minimum bet comparison",
+      "status": "used",
+      "writing_style": "平台對比表格，1000字",
+      "slug": "live-casino-min-bet-platforms-comparison",
+      "used_date": "2026-05-26"
+    },
+    {
+      "id": 21,
+      "keyword": "不同路單策略在百家樂的勝率統計",
+      "category": "百家樂",
+      "angle": "數據比較型",
+      "image_theme": "baccarat road strategy win rate statistics",
+      "status": "used",
+      "writing_style": "統計報告格式，含模擬結果，950字",
+      "slug": "article-21",
+      "used_date": "2026-05-27"
+    },
+    {
+      "id": 22,
+      "keyword": "亞洲真人遊戲平台 vs 歐洲平台比較",
+      "category": "平台選擇",
+      "angle": "數據比較型",
+      "image_theme": "asian vs european live casino platform comparison",
+      "status": "used",
+      "writing_style": "比較分析，含地區差異，1000字",
+      "slug": "vs",
+      "used_date": "2026-05-27"
+    },
+    {
+      "id": 23,
+      "keyword": "21點不同策略的長期回報率數據",
+      "category": "21點",
+      "angle": "數據比較型",
+      "image_theme": "blackjack strategy long term return statistics",
+      "status": "used",
+      "writing_style": "數據驅動，含模擬結果，950字",
+      "slug": "21",
+      "used_date": "2026-05-27"
+    },
+    {
+      "id": 24,
+      "keyword": "輪盤最佳和最差的投注方式數據",
+      "category": "輪盤",
+      "angle": "數據比較型",
+      "image_theme": "roulette best worst bet statistics data",
+      "status": "used",
+      "writing_style": "清單+數據格式，900字",
+      "slug": "roulette-best-worst-bets-data-analysis",
+      "used_date": "2026-05-28"
+    },
+    {
+      "id": 25,
+      "keyword": "2025年最受香港玩家歡迎的真人遊戲排名",
+      "category": "平台選擇",
+      "angle": "數據比較型",
+      "image_theme": "hong kong popular live casino games ranking 2025",
+      "status": "used",
+      "writing_style": "排名報告，含玩家偏好數據，950字",
+      "slug": "hong-kong-live-casino-games-ranking-2025",
+      "used_date": "2026-05-28"
+    },
+    {
+      "id": 26,
+      "keyword": "馬丁格爾 vs 反馬丁：哪個更安全？",
+      "category": "百家樂",
+      "angle": "數據比較型",
+      "image_theme": "martingale vs anti-martingale comparison safety",
+      "status": "used",
+      "writing_style": "策略對比，含破產機率計算，950字",
+      "slug": "martingale-vs-anti-martingale-baccarat-safety-data",
+      "used_date": "2026-05-28"
+    },
+    {
+      "id": 27,
+      "keyword": "真人百家樂荷官速度影響勝率嗎？",
+      "category": "荷官技術",
+      "angle": "數據比較型",
+      "image_theme": "live baccarat dealer speed effect win rate",
+      "status": "used",
+      "writing_style": "分析研究，含統計，850字",
+      "slug": "live-baccarat-dealer-speed-win-rate-analysis",
+      "used_date": "2026-05-29"
+    },
+    {
+      "id": 28,
+      "keyword": "各大真人遊戲平台最低存款比較",
+      "category": "平台選擇",
+      "angle": "數據比較型",
+      "image_theme": "live casino minimum deposit comparison",
+      "status": "used",
+      "writing_style": "平台對比表格，1000字",
+      "slug": "live-casino-min-deposit-comparison",
+      "used_date": "2026-05-29"
+    },
+    {
+      "id": 29,
+      "keyword": "骰寶 vs 百家樂：長期期望值比較",
+      "category": "荷官技術",
+      "angle": "數據比較型",
+      "image_theme": "sic bo vs baccarat expected value comparison",
+      "status": "used",
+      "writing_style": "量化比較，900字",
+      "slug": "sic-bo-baccarat-expected-value-comparison",
+      "used_date": "2026-05-29"
+    },
+    {
+      "id": 30,
+      "keyword": "真人21點提前投降規則影響RTP分析",
+      "category": "21點",
+      "angle": "數據比較型",
+      "image_theme": "blackjack surrender rule RTP analysis",
+      "status": "used",
+      "writing_style": "規則分析，含RTP計算，900字",
+      "slug": "article",
+      "used_date": "2026-05-29"
+    },
+    {
+      "id": 31,
+      "keyword": "百家樂機率與路單完整教學",
+      "category": "百家樂",
+      "angle": "教學攻略型",
+      "image_theme": "baccarat probability road guide tutorial",
+      "status": "used",
+      "writing_style": "系統性教學，含圖表，950字",
+      "slug": "baccarat-probability-road-reading-guide",
+      "used_date": "2026-05-30"
+    },
+    {
+      "id": 32,
+      "keyword": "輪盤投注初學者完整指南",
+      "category": "輪盤",
+      "angle": "教學攻略型",
+      "image_theme": "roulette betting beginner complete guide",
+      "status": "used",
+      "writing_style": "從零開始，1000字",
+      "slug": "roulette-beginners-guide-strategy",
+      "used_date": "2026-05-30"
+    },
+    {
+      "id": 33,
+      "keyword": "21點基本策略完整教學",
+      "category": "21點",
+      "angle": "教學攻略型",
+      "image_theme": "blackjack basic strategy complete guide",
+      "status": "used",
+      "writing_style": "策略卡片說明，900字",
+      "slug": "blackjack-basic-strategy-math-analysis",
+      "used_date": "2026-05-30"
+    },
+    {
+      "id": 34,
+      "keyword": "真人遊戲負責任娛樂指南",
+      "category": "平台選擇",
+      "angle": "教學攻略型",
+      "image_theme": "responsible gambling live casino guide",
+      "status": "used",
+      "writing_style": "教育性，含自我檢測工具，800字",
+      "slug": "responsible-live-gaming-guide",
+      "used_date": "2026-05-31"
+    },
+    {
+      "id": 35,
+      "keyword": "香港合法真人遊戲平台選擇指南",
+      "category": "平台選擇",
+      "angle": "教學攻略型",
+      "image_theme": "hong kong legal live casino selection guide",
+      "status": "used",
+      "writing_style": "合規選擇框架，1000字",
+      "slug": "article",
+      "used_date": "2026-05-31"
+    },
+    {
+      "id": 36,
+      "keyword": "真人百家樂入門：從開戶到第一局",
+      "category": "百家樂",
+      "angle": "教學攻略型",
+      "image_theme": "live baccarat beginner first game tutorial",
+      "status": "used",
+      "writing_style": "步驟式教學，900字",
+      "slug": "live-baccarat-beginner-guide-hong-kong",
+      "used_date": "2026-05-31"
+    },
+    {
+      "id": 37,
+      "keyword": "停損與停贏設定的科學方法",
+      "category": "百家樂",
+      "angle": "教學攻略型",
+      "image_theme": "stop loss stop win scientific method casino",
+      "status": "used",
+      "writing_style": "量化框架，含計算範例，900字",
+      "slug": "gambling-stop-loss-win-strategy",
+      "used_date": "2026-06-01"
+    },
+    {
+      "id": 38,
+      "keyword": "真人遊戲手機版使用技巧",
+      "category": "平台選擇",
+      "angle": "教學攻略型",
+      "image_theme": "live casino mobile app tips",
+      "status": "used",
+      "writing_style": "實用技巧清單，850字",
+      "slug": "article",
+      "used_date": "2026-06-01"
+    },
+    {
+      "id": 39,
+      "keyword": "如何識別公正的真人遊戲平台？",
+      "category": "平台選擇",
+      "angle": "教學攻略型",
+      "image_theme": "fair live casino platform identification criteria",
+      "status": "used",
+      "writing_style": "消費者保護角度，950字",
+      "slug": "live-casino-fairness-assessment",
+      "used_date": "2026-06-02"
+    },
+    {
+      "id": 40,
+      "keyword": "21點分牌加注策略完整說明",
+      "category": "21點",
+      "angle": "教學攻略型",
+      "image_theme": "blackjack split double down strategy guide",
+      "status": "used",
+      "writing_style": "策略深度解析，900字",
+      "slug": "blackjack-split-double-strategy-analysis",
+      "used_date": "2026-06-02"
+    },
+    {
+      "id": 41,
+      "keyword": "2025年真人遊戲平台新功能評測",
+      "category": "平台選擇",
+      "angle": "時事賽事型",
+      "image_theme": "live casino new features 2025 review",
+      "status": "used",
+      "writing_style": "評測報告，950字",
+      "slug": "2025-live-casino-tech-trends-analysis",
+      "used_date": "2026-06-02"
+    },
+    {
+      "id": 42,
+      "keyword": "真人遊戲平台春節特別優惠分析",
+      "category": "平台選擇",
+      "angle": "時事賽事型",
+      "image_theme": "live casino chinese new year promotion analysis",
+      "status": "used",
+      "writing_style": "活動分析，850字",
+      "slug": "article",
+      "used_date": "2026-06-02"
+    },
+    {
+      "id": 43,
+      "keyword": "2025年最新百家樂平台比較",
+      "category": "百家樂",
+      "angle": "時事賽事型",
+      "image_theme": "baccarat platform comparison 2025 latest",
+      "status": "used",
+      "writing_style": "即時比較報告，950字",
+      "slug": "hong-kong-baccarat-platform-review-2025",
+      "used_date": "2026-06-03"
+    },
+    {
+      "id": 44,
+      "keyword": "香港賭場科技趨勢：2025年真人遊戲展望",
+      "category": "平台選擇",
+      "angle": "時事賽事型",
+      "image_theme": "hong kong casino technology trends 2025",
+      "status": "available",
+      "writing_style": "趨勢分析，950字"
+    },
+    {
+      "id": 45,
+      "keyword": "真人遊戲加密貨幣存款最新動態",
+      "category": "平台選擇",
+      "angle": "時事賽事型",
+      "image_theme": "live casino cryptocurrency payment 2025",
+      "status": "available",
+      "writing_style": "即時資訊，900字"
+    },
+    {
+      "id": 46,
+      "keyword": "百家樂莊閒交替規律存在嗎？",
+      "category": "百家樂",
+      "angle": "疑問句型",
+      "image_theme": "baccarat alternating pattern banker player",
+      "status": "available",
+      "writing_style": "統計分析，批判性，900字"
+    },
+    {
+      "id": 47,
+      "keyword": "真人輪盤哪個投注最划算？",
+      "category": "輪盤",
+      "angle": "疑問句型",
+      "image_theme": "live roulette best bet value",
+      "status": "available",
+      "writing_style": "數學分析，900字"
+    },
+    {
+      "id": 48,
+      "keyword": "21點保險賭注值得買嗎？",
+      "category": "21點",
+      "angle": "疑問句型",
+      "image_theme": "blackjack insurance bet worth it analysis",
+      "status": "available",
+      "writing_style": "數學計算，客觀分析，850字"
+    },
+    {
+      "id": 49,
+      "keyword": "真人遊戲平台提款需要多久？",
+      "category": "平台選擇",
+      "angle": "疑問句型",
+      "image_theme": "live casino withdrawal speed time",
+      "status": "available",
+      "writing_style": "實測報告格式，900字"
+    },
+    {
+      "id": 50,
+      "keyword": "為什麼真人遊戲比電子遊戲受歡迎？",
+      "category": "荷官技術",
+      "angle": "疑問句型",
+      "image_theme": "live dealer vs electronic game popularity reason",
+      "status": "available",
+      "writing_style": "消費者行為分析，850字"
+    },
+    {
+      "id": 51,
+      "keyword": "骰寶玩法規則完整入門指南",
+      "category": "骰寶",
+      "angle": "教學攻略型",
+      "image_theme": "sic bo rules complete beginner guide",
+      "status": "available",
+      "writing_style": "從零開始教學，含投注區說明，900字"
+    },
+    {
+      "id": 52,
+      "keyword": "骰寶大小投注機率是多少？",
+      "category": "骰寶",
+      "angle": "疑問句型",
+      "image_theme": "sic bo big small probability statistics",
+      "status": "available",
+      "writing_style": "機率計算，含期望值表格，850字"
+    },
+    {
+      "id": 53,
+      "keyword": "骰寶和百家樂哪個更容易贏？",
+      "category": "骰寶",
+      "angle": "數據比較型",
+      "image_theme": "sic bo vs baccarat win rate comparison",
+      "status": "available",
+      "writing_style": "量化比較，含房屋邊際數據，900字"
+    },
+    {
+      "id": 54,
+      "keyword": "線上骰寶平台怎麼選？",
+      "category": "骰寶",
+      "angle": "教學攻略型",
+      "image_theme": "online sic bo platform selection guide",
+      "status": "available",
+      "writing_style": "選擇框架，含平台評分，850字"
+    },
+    {
+      "id": 55,
+      "keyword": "骰寶賠率分析：各種投注的期望值",
+      "category": "骰寶",
+      "angle": "數據比較型",
+      "image_theme": "sic bo payout odds expected value analysis",
+      "status": "available",
+      "writing_style": "數據表格主導，含EV計算，900字"
+    },
+    {
+      "id": 56,
+      "keyword": "魚蝦蟹和骰寶有什麼不同？",
+      "category": "骰寶",
+      "angle": "疑問句型",
+      "image_theme": "fish prawn crab sic bo game difference",
+      "status": "available",
+      "writing_style": "比較說明，趣味科普，800字"
+    },
+    {
+      "id": 57,
+      "keyword": "骰寶必勝策略存在嗎？數學角度分析",
+      "category": "骰寶",
+      "angle": "疑問句型",
+      "image_theme": "sic bo strategy mathematics analysis",
+      "status": "available",
+      "writing_style": "批判性分析，含隨機性理論，900字"
+    },
+    {
+      "id": 58,
+      "keyword": "骰寶初學者3大必知投注技巧",
+      "category": "骰寶",
+      "angle": "教學攻略型",
+      "image_theme": "sic bo beginner betting tips strategy",
+      "status": "available",
+      "writing_style": "清單式教學，實用角度，850字"
+    },
+    {
+      "id": 59,
+      "keyword": "骰寶牌面組合機率完整表格",
+      "category": "骰寶",
+      "angle": "數據比較型",
+      "image_theme": "sic bo dice combination probability table",
+      "status": "available",
+      "writing_style": "機率表格為主，統計分析，900字"
+    },
+    {
+      "id": 60,
+      "keyword": "21點莊家優勢到底有多大？數據解析",
+      "category": "21點",
+      "angle": "疑問句型",
+      "image_theme": "blackjack dealer advantage house edge data",
+      "status": "available",
+      "writing_style": "數學分析，含百分比計算，900字"
+    },
+    {
+      "id": 61,
+      "keyword": "21點規則完整教學（含分牌加倍規則）",
+      "category": "21點",
+      "angle": "教學攻略型",
+      "image_theme": "blackjack rules complete guide split double down",
+      "status": "available",
+      "writing_style": "系統性教學，含規則圖解，950字"
+    },
+    {
+      "id": 62,
+      "keyword": "線上21點和實體21點哪個更好？",
+      "category": "21點",
+      "angle": "數據比較型",
+      "image_theme": "online blackjack vs physical casino comparison",
+      "status": "available",
+      "writing_style": "比較分析，含RTP與體驗，900字"
+    },
+    {
+      "id": 63,
+      "keyword": "21點策略表完整解析：怎麼用才對",
+      "category": "21點",
+      "angle": "教學攻略型",
+      "image_theme": "blackjack strategy chart how to use",
+      "status": "available",
+      "writing_style": "教學格式，含策略卡片說明，950字"
+    },
+    {
+      "id": 64,
+      "keyword": "21點什麼時候該要牌？判斷準則",
+      "category": "21點",
+      "angle": "疑問句型",
+      "image_theme": "blackjack when to hit stand decision rule",
+      "status": "available",
+      "writing_style": "決策框架，含情境範例，900字"
+    },
+    {
+      "id": 65,
+      "keyword": "21點雙倍下注策略什麼時候最有效？",
+      "category": "21點",
+      "angle": "教學攻略型",
+      "image_theme": "blackjack double down strategy best timing",
+      "status": "available",
+      "writing_style": "策略解析，含機率條件，900字"
+    },
+    {
+      "id": 66,
+      "keyword": "21點算牌入門：基本原理與應用",
+      "category": "21點",
+      "angle": "教學攻略型",
+      "image_theme": "blackjack card counting basic principles",
+      "status": "available",
+      "writing_style": "技術教學，含計分系統說明，1000字"
+    },
+    {
+      "id": 67,
+      "keyword": "21點和牌規則在不同平台的差異",
+      "category": "21點",
+      "angle": "數據比較型",
+      "image_theme": "blackjack push tie rules platform comparison",
+      "status": "available",
+      "writing_style": "規則比較，含平台差異，900字"
+    },
+    {
+      "id": 68,
+      "keyword": "21點平均RTP是多少？各版本比較",
+      "category": "21點",
+      "angle": "數據比較型",
+      "image_theme": "blackjack RTP return to player comparison",
+      "status": "available",
+      "writing_style": "數據驅動，含版本差異表，900字"
+    },
+    {
+      "id": 69,
+      "keyword": "21點新手5大常見錯誤",
+      "category": "21點",
+      "angle": "教學攻略型",
+      "image_theme": "blackjack beginner mistakes common errors",
+      "status": "available",
+      "writing_style": "清單格式，含糾錯說明，850字"
+    },
+    {
+      "id": 70,
+      "keyword": "21點分牌策略：何時分、何時不分",
+      "category": "21點",
+      "angle": "教學攻略型",
+      "image_theme": "blackjack pair splitting strategy when to split",
+      "status": "available",
+      "writing_style": "策略指南，含機率判斷，900字"
+    },
+    {
+      "id": 71,
+      "keyword": "21點側注（完美對子/21+3）值得投嗎？",
+      "category": "21點",
+      "angle": "疑問句型",
+      "image_theme": "blackjack side bet perfect pairs analysis",
+      "status": "available",
+      "writing_style": "期望值計算，批判性分析，850字"
+    },
+    {
+      "id": 72,
+      "keyword": "為什麼21點比其他桌遊RTP更高？",
+      "category": "21點",
+      "angle": "疑問句型",
+      "image_theme": "blackjack highest RTP table game reason",
+      "status": "available",
+      "writing_style": "比較分析，含RTP數據，900字"
+    },
+    {
+      "id": 73,
+      "keyword": "21點遊戲規則變體：歐美版本差異",
+      "category": "21點",
+      "angle": "數據比較型",
+      "image_theme": "blackjack rule variations europe america differences",
+      "status": "available",
+      "writing_style": "規則比較，含影響分析，900字"
+    },
+    {
+      "id": 74,
+      "keyword": "21點最佳下注金額如何設定？",
+      "category": "21點",
+      "angle": "教學攻略型",
+      "image_theme": "blackjack optimal bet sizing bankroll",
+      "status": "available",
+      "writing_style": "資金管理框架，含計算範例，900字"
+    },
+    {
+      "id": 75,
+      "keyword": "21點保險賭注的數學邏輯",
+      "category": "21點",
+      "angle": "疑問句型",
+      "image_theme": "blackjack insurance bet mathematics logic",
+      "status": "available",
+      "writing_style": "數學解析，含期望值，850字"
+    },
+    {
+      "id": 76,
+      "keyword": "21點軟牌策略（A+X）完整指南",
+      "category": "21點",
+      "angle": "教學攻略型",
+      "image_theme": "blackjack soft hand strategy ace guide",
+      "status": "available",
+      "writing_style": "策略深度解析，含情境表，900字"
+    },
+    {
+      "id": 77,
+      "keyword": "21點連輸後的資金管理方法",
+      "category": "21點",
+      "angle": "教學攻略型",
+      "image_theme": "blackjack losing streak bankroll management",
+      "status": "available",
+      "writing_style": "風險管理，含停損設定，850字"
+    },
+    {
+      "id": 78,
+      "keyword": "21點大師級技巧：進階策略解析",
+      "category": "21點",
+      "angle": "教學攻略型",
+      "image_theme": "blackjack advanced strategy expert level",
+      "status": "available",
+      "writing_style": "進階玩家導向，含實戰技巧，1000字"
+    },
+    {
+      "id": 79,
+      "keyword": "21點基本策略 vs 直覺玩法：勝率差多少？",
+      "category": "21點",
+      "angle": "數據比較型",
+      "image_theme": "blackjack basic strategy vs intuition win rate",
+      "status": "available",
+      "writing_style": "數據模擬比較，含勝率差距，900字"
+    },
+    {
+      "id": 80,
+      "keyword": "輪盤必勝法真的有效嗎？",
+      "category": "輪盤",
+      "angle": "疑問句型",
+      "image_theme": "roulette winning system effectiveness analysis",
+      "status": "available",
+      "writing_style": "批判性分析，含數學反駁，900字"
+    },
+    {
+      "id": 81,
+      "keyword": "輪盤投注法比較：哪種期望值最高？",
+      "category": "輪盤",
+      "angle": "數據比較型",
+      "image_theme": "roulette betting system comparison expected value",
+      "status": "available",
+      "writing_style": "數據表格為主，含EV計算，900字"
+    },
+    {
+      "id": 82,
+      "keyword": "歐式輪盤比美式輪盤勝率高多少？",
+      "category": "輪盤",
+      "angle": "數據比較型",
+      "image_theme": "european american roulette win rate comparison",
+      "status": "available",
+      "writing_style": "量化比較，含零格影響分析，900字"
+    },
+    {
+      "id": 83,
+      "keyword": "輪盤技巧：降低莊家優勢的實用方法",
+      "category": "輪盤",
+      "angle": "教學攻略型",
+      "image_theme": "roulette tips reduce house edge practical",
+      "status": "available",
+      "writing_style": "實用技巧清單，含執行建議，900字"
+    },
+    {
+      "id": 84,
+      "keyword": "輪盤熱號碼策略有科學依據嗎？",
+      "category": "輪盤",
+      "angle": "疑問句型",
+      "image_theme": "roulette hot numbers strategy statistics science",
+      "status": "available",
+      "writing_style": "統計批判，含隨機性論證，900字"
+    },
+    {
+      "id": 85,
+      "keyword": "法國輪盤En Prison規則怎麼算？",
+      "category": "輪盤",
+      "angle": "疑問句型",
+      "image_theme": "french roulette en prison rule calculation",
+      "status": "available",
+      "writing_style": "規則解析，含RTP影響，850字"
+    },
+    {
+      "id": 86,
+      "keyword": "真人輪盤 vs 電子輪盤：哪個更公平？",
+      "category": "輪盤",
+      "angle": "數據比較型",
+      "image_theme": "live roulette vs electronic fairness comparison",
+      "status": "available",
+      "writing_style": "公平性比較，含RNG說明，900字"
+    },
+    {
+      "id": 87,
+      "keyword": "輪盤賠率完整對照表與期望值",
+      "category": "輪盤",
+      "angle": "數據比較型",
+      "image_theme": "roulette payout odds complete table expected value",
+      "status": "available",
+      "writing_style": "數據表格主導，覆蓋所有投注類型，900字"
+    },
+    {
+      "id": 88,
+      "keyword": "百家樂和牌（平局）機率為何那麼低？",
+      "category": "百家樂",
+      "angle": "疑問句型",
+      "image_theme": "baccarat tie probability why low statistics",
+      "status": "available",
+      "writing_style": "統計分析，含數學原理，900字"
+    },
+    {
+      "id": 89,
+      "keyword": "超級六百家樂（Super 6）賠率全解析",
+      "category": "百家樂",
+      "angle": "疑問句型",
+      "image_theme": "super six baccarat payout rule analysis",
+      "status": "available",
+      "writing_style": "規則詳解，含EV比較，850字"
+    },
+    {
+      "id": 90,
+      "keyword": "百家樂加碼策略的破產機率計算",
+      "category": "百家樂",
+      "angle": "數據比較型",
+      "image_theme": "baccarat progressive betting bankruptcy probability",
+      "status": "available",
+      "writing_style": "量化分析，含模擬計算，950字"
+    },
+    {
+      "id": 91,
+      "keyword": "百家樂5%手續費對期望值有多大影響？",
+      "category": "百家樂",
+      "angle": "疑問句型",
+      "image_theme": "baccarat banker commission five percent EV impact",
+      "status": "available",
+      "writing_style": "數學計算，精確分析，850字"
+    },
+    {
+      "id": 92,
+      "keyword": "8副牌 vs 6副牌百家樂機率有差嗎？",
+      "category": "百家樂",
+      "angle": "數據比較型",
+      "image_theme": "baccarat 8 deck vs 6 deck probability comparison",
+      "status": "available",
+      "writing_style": "統計比較，含數學推導，900字"
+    },
+    {
+      "id": 93,
+      "keyword": "百家樂洗牌機對路單分析有影響嗎？",
+      "category": "百家樂",
+      "angle": "疑問句型",
+      "image_theme": "baccarat shuffling machine road effect analysis",
+      "status": "available",
+      "writing_style": "批判性分析，含設備說明，850字"
+    },
+    {
+      "id": 94,
+      "keyword": "百家樂平注策略入門：保守打法的數學",
+      "category": "百家樂",
+      "angle": "教學攻略型",
+      "image_theme": "baccarat flat betting strategy conservative mathematics",
+      "status": "available",
+      "writing_style": "風險管理框架，含計算，900字"
+    },
+    {
+      "id": 95,
+      "keyword": "百家樂退出時機的數學依據",
+      "category": "百家樂",
+      "angle": "教學攻略型",
+      "image_theme": "baccarat exit timing mathematics strategy",
+      "status": "available",
+      "writing_style": "決策框架，含停利設定，850字"
+    },
+    {
+      "id": 96,
+      "keyword": "百家樂路單類型全解析（大路/小路/眼鏡路）",
+      "category": "百家樂",
+      "angle": "教學攻略型",
+      "image_theme": "baccarat road types big road small road analysis",
+      "status": "available",
+      "writing_style": "系統性教學，含圖表說明，1000字"
+    },
+    {
+      "id": 97,
+      "keyword": "百家樂下注限額如何影響資金管理？",
+      "category": "百家樂",
+      "angle": "疑問句型",
+      "image_theme": "baccarat betting limit bankroll management effect",
+      "status": "available",
+      "writing_style": "風險分析，含建議設定，850字"
+    },
+    {
+      "id": 98,
+      "keyword": "真人荷官如何影響遊戲公正性？",
+      "category": "荷官技術",
+      "angle": "疑問句型",
+      "image_theme": "live dealer fairness game integrity analysis",
+      "status": "available",
+      "writing_style": "技術分析，含認證說明，900字"
+    },
+    {
+      "id": 99,
+      "keyword": "頂級真人遊戲平台的荷官培訓標準",
+      "category": "荷官技術",
+      "angle": "數據比較型",
+      "image_theme": "live casino dealer training standards comparison",
+      "status": "available",
+      "writing_style": "平台評測，含培訓標準比較，950字"
+    },
+    {
+      "id": 100,
+      "keyword": "真人21點荷官規則和電腦版有什麼差異？",
+      "category": "荷官技術",
+      "angle": "疑問句型",
+      "image_theme": "live blackjack dealer rules vs computer version",
+      "status": "available",
+      "writing_style": "規則比較，含玩家體驗，900字"
+    },
+    {
+      "id": 101,
+      "keyword": "真人遊戲串流延遲怎麼影響決策？",
+      "category": "荷官技術",
+      "angle": "疑問句型",
+      "image_theme": "live casino streaming latency decision impact",
+      "status": "available",
+      "writing_style": "技術分析，含解決方案，850字"
+    },
+    {
+      "id": 102,
+      "keyword": "荷官互動功能比較：哪個平台最好？",
+      "category": "荷官技術",
+      "angle": "數據比較型",
+      "image_theme": "dealer interaction features live casino comparison",
+      "status": "available",
+      "writing_style": "平台評測，含功能對比，950字"
+    },
+    {
+      "id": 103,
+      "keyword": "真人遊戲公正認證怎麼查看？",
+      "category": "荷官技術",
+      "angle": "教學攻略型",
+      "image_theme": "live casino fairness certification how to verify",
+      "status": "available",
+      "writing_style": "消費者指南，含認證機構說明，850字"
+    },
+    {
+      "id": 104,
+      "keyword": "多攝影機角度真人遊戲是否影響遊戲品質？",
+      "category": "荷官技術",
+      "angle": "疑問句型",
+      "image_theme": "live casino multi-camera angle game quality",
+      "status": "available",
+      "writing_style": "技術評測，含體驗分析，850字"
+    }
+  ]
+}
