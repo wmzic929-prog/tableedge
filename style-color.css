@@ -1,0 +1,34 @@
+/* casino-red — 碳黑×紅 | 娛樂促銷多色（明亮版）*/
+/* 源自 gameonehkofficial.com 配色系統，2026-05-26 */
+:root {
+  --clr-accent:         #dc2626;
+  --clr-accent-dark:    #b91c1c;
+  --clr-accent-light:   #ef4444;
+  --clr-accent-glow:    rgba(220,38,38,.25);
+  --clr-accent-faint:   rgba(220,38,38,.07);
+
+  --clr-bg:             #ffffff;
+  --clr-bg-alt:         #f9fafb;
+  --clr-bg-dark:        #111827;
+  --clr-bg-dark2:       #1f2937;
+
+  --clr-text:           #111827;
+  --clr-text-muted:     #6b7280;
+  --clr-text-inv:       #f9fafb;
+  --clr-text-inv-muted: rgba(249,250,251,.70);
+
+  --clr-border:         #fecaca;
+  --clr-border-dark:    rgba(220,38,38,.18);
+
+  /* 多色標籤系統：紅+海洋藍+翠綠+天青+琥珀 */
+  --clr-tag-1:          #dc2626;
+  --clr-tag-2:          #0891b2;
+  --clr-tag-3:          #16a34a;
+  --clr-tag-4:          #22d3ee;
+  --clr-tag-5:          #f59e0b;
+
+  --clr-hero-overlay:   linear-gradient(0deg, rgba(17,24,39,.96) 0%, rgba(17,24,39,.52) 55%, rgba(17,24,39,.12) 100%);
+  --clr-shadow:         0 1px 4px rgba(220,38,38,.10), 0 1px 2px rgba(0,0,0,.04);
+  --clr-shadow-md:      0 4px 16px rgba(220,38,38,.15), 0 2px 4px rgba(0,0,0,.05);
+  --clr-shadow-accent:  0 6px 24px rgba(220,38,38,.28);
+}
