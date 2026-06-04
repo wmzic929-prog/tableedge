@@ -490,8 +490,10 @@
       "category": "平台選擇",
       "angle": "時事賽事型",
       "image_theme": "live casino cryptocurrency payment 2025",
-      "status": "available",
-      "writing_style": "即時資訊，900字"
+      "status": "used",
+      "writing_style": "即時資訊，900字",
+      "slug": "live-casino-crypto-deposits-analysis",
+      "used_date": "2026-06-03"
     },
     {
       "id": 46,
@@ -499,8 +501,10 @@
       "category": "百家樂",
       "angle": "疑問句型",
       "image_theme": "baccarat alternating pattern banker player",
-      "status": "available",
-      "writing_style": "統計分析，批判性，900字"
+      "status": "used",
+      "writing_style": "統計分析，批判性，900字",
+      "slug": "baccarat-road-patterns-math-analysis",
+      "used_date": "2026-06-04"
     },
     {
       "id": 47,
@@ -508,8 +512,10 @@
       "category": "輪盤",
       "angle": "疑問句型",
       "image_theme": "live roulette best bet value",
-      "status": "available",
-      "writing_style": "數學分析，900字"
+      "status": "used",
+      "writing_style": "數學分析，900字",
+      "slug": "live-roulette-odds-expected-value-strategy-analysis",
+      "used_date": "2026-06-04"
     },
     {
       "id": 48,
