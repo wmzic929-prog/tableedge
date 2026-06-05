@@ -523,8 +523,10 @@
       "category": "21點",
       "angle": "疑問句型",
       "image_theme": "blackjack insurance bet worth it analysis",
-      "status": "available",
-      "writing_style": "數學計算，客觀分析，850字"
+      "status": "used",
+      "writing_style": "數學計算，客觀分析，850字",
+      "slug": "21",
+      "used_date": "2026-06-04"
     },
     {
       "id": 49,
@@ -532,8 +534,10 @@
       "category": "平台選擇",
       "angle": "疑問句型",
       "image_theme": "live casino withdrawal speed time",
-      "status": "available",
-      "writing_style": "實測報告格式，900字"
+      "status": "used",
+      "writing_style": "實測報告格式，900字",
+      "slug": "live-casino-withdrawal-speed-analysis",
+      "used_date": "2026-06-05"
     },
     {
       "id": 50,
@@ -541,8 +545,10 @@
       "category": "荷官技術",
       "angle": "疑問句型",
       "image_theme": "live dealer vs electronic game popularity reason",
-      "status": "available",
-      "writing_style": "消費者行為分析，850字"
+      "status": "used",
+      "writing_style": "消費者行為分析，850字",
+      "slug": "live-dealer-games-rise-social-trust",
+      "used_date": "2026-06-05"
     },
     {
       "id": 51,
@@ -550,8 +556,10 @@
       "category": "骰寶",
       "angle": "教學攻略型",
       "image_theme": "sic bo rules complete beginner guide",
-      "status": "available",
-      "writing_style": "從零開始教學，含投注區說明，900字"
+      "status": "used",
+      "writing_style": "從零開始教學，含投注區說明，900字",
+      "slug": "article-51",
+      "used_date": "2026-06-05"
     },
     {
       "id": 52,
