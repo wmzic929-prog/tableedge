@@ -567,8 +567,10 @@
       "category": "骰寶",
       "angle": "疑問句型",
       "image_theme": "sic bo big small probability statistics",
-      "status": "available",
-      "writing_style": "機率計算，含期望值表格，850字"
+      "status": "used",
+      "writing_style": "機率計算，含期望值表格，850字",
+      "slug": "article-52",
+      "used_date": "2026-06-05"
     },
     {
       "id": 53,
@@ -576,8 +578,10 @@
       "category": "骰寶",
       "angle": "數據比較型",
       "image_theme": "sic bo vs baccarat win rate comparison",
-      "status": "available",
-      "writing_style": "量化比較，含房屋邊際數據，900字"
+      "status": "used",
+      "writing_style": "量化比較，含房屋邊際數據，900字",
+      "slug": "sic-bo-baccarat-odds-comparison",
+      "used_date": "2026-06-06"
     },
     {
       "id": 54,
@@ -585,8 +589,10 @@
       "category": "骰寶",
       "angle": "教學攻略型",
       "image_theme": "online sic bo platform selection guide",
-      "status": "available",
-      "writing_style": "選擇框架，含平台評分，850字"
+      "status": "used",
+      "writing_style": "選擇框架，含平台評分，850字",
+      "slug": "online-sic-bo-platform-evaluation",
+      "used_date": "2026-06-06"
     },
     {
       "id": 55,
