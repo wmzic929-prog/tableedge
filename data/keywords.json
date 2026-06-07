@@ -600,8 +600,10 @@
       "category": "骰寶",
       "angle": "數據比較型",
       "image_theme": "sic bo payout odds expected value analysis",
-      "status": "available",
-      "writing_style": "數據表格主導，含EV計算，900字"
+      "status": "used",
+      "writing_style": "數據表格主導，含EV計算，900字",
+      "slug": "sic-bo-payouts-expected-value-analysis",
+      "used_date": "2026-06-06"
     },
     {
       "id": 56,
@@ -609,8 +611,10 @@
       "category": "骰寶",
       "angle": "疑問句型",
       "image_theme": "fish prawn crab sic bo game difference",
-      "status": "available",
-      "writing_style": "比較說明，趣味科普，800字"
+      "status": "used",
+      "writing_style": "比較說明，趣味科普，800字",
+      "slug": "article-56",
+      "used_date": "2026-06-07"
     },
     {
       "id": 57,
@@ -618,8 +622,10 @@
       "category": "骰寶",
       "angle": "疑問句型",
       "image_theme": "sic bo strategy mathematics analysis",
-      "status": "available",
-      "writing_style": "批判性分析，含隨機性理論，900字"
+      "status": "used",
+      "writing_style": "批判性分析，含隨機性理論，900字",
+      "slug": "sic-bo-math-truth-no-winning-strategy",
+      "used_date": "2026-06-07"
     },
     {
       "id": 58,

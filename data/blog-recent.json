@@ -1,28 +1,28 @@
 {
   "articles": [
     {
-      "slug": "online-sic-bo-platform-evaluation",
-      "title": "線上骰寶平台評選標準：賠率結構、遊戲公平性與監管資質綜合研究",
+      "slug": "sic-bo-math-truth-no-winning-strategy",
+      "title": "骰寶必勝策略的數學真相：期望值、概率結構與長期必然虧損分析",
       "category": "undefined",
-      "date": "2026-06-06",
-      "excerpt": "玩咗咁多年線上骰寶，最怕遇到黑平台！我哋一齊揭開業界秘密，睇清點樣揀真係靠譜嘅平台，贏錢贏得有信心。",
-      "imageUrl": "https://pixabay.com/get/g838b8b843b265998c79fd5bf9bfc0549c9c814d967a9a9404e1c77c52e4db7bd510b41110bdd00095bc7b57f7d2cc3efb9817f1ab2114e8136deb0fa9a9c97e1_640.jpg"
+      "date": "2026-06-07",
+      "excerpt": "我哋成日聽到人講骰寶有「必勝法」，到底堅唔堅？今次就用數學角度，睇穿呢個賭局嘅真正面貌。",
+      "imageUrl": "https://pixabay.com/get/gc666944fc209432c4fe083f7bafda96dc8d2c3fe2231994e1ce63ddf551b4005f0daf84caa38bd1463b3d6ec60eee091d18497a003973bb65288e5c0516dfb2d_640.jpg"
     },
     {
-      "slug": "sic-bo-baccarat-odds-comparison",
-      "title": "骰寶與百家樂勝率比較：賠率結構、莊家優勢與玩家獲勝概率深度分析",
-      "category": "undefined",
-      "date": "2026-06-06",
-      "excerpt": "每次入到賭場，面對骰寶同百家樂，你係咪都諗邊個勝率高啲？我哋今日就嚟拆解呢個世紀難題！",
-      "imageUrl": "https://pixabay.com/get/gdc09cea9c721259879859e543b3b33c94168939d4e8df1b3b6568b59223caf25824c197e4e92b896222ee39be93cc7ddb60667cb8b447bd034a127a6ac06f8d7_640.jpg"
-    },
-    {
-      "slug": "article-52",
-      "title": "骰寶大小投注機率是多少？",
+      "slug": "article-56",
+      "title": "魚蝦蟹和骰寶有什麼不同？",
       "category": "骰寶",
-      "date": "2026-06-05",
-      "excerpt": "```json",
-      "imageUrl": "https://pixabay.com/get/g24d115db1f0bfa1e99cdb03996992b2d83f78d62746f503159e557eb67ff246a075901c5de2eda6212009b19b5fd58c05a2ec0f839457b731a25c65f14a1c5b2_640.jpg"
+      "date": "2026-06-07",
+      "excerpt": "{",
+      "imageUrl": "https://pixabay.com/get/gd655374550a734e3991d37d6efa5e32eaf8e53544c7087e07a2bc2219a8fb11112283b8c540a335fa2472e2cff91c3d2_640.jpg"
+    },
+    {
+      "slug": "sic-bo-payouts-expected-value-analysis",
+      "title": "骰寶各類投注賠率結構與期望值之實證分析",
+      "category": "undefined",
+      "date": "2026-06-06",
+      "excerpt": "每次玩骰寶，我都想知邊個位最抵玩？今日就同大家實證分析下骰寶嘅賠率同期望值！",
+      "imageUrl": "https://pixabay.com/get/gb3582822fa0d862f2639e287cb6ed65de67fce0ed701616a9343285eb84a23d72e67beca5edf258b3e8674f81e59e432776ba3d924f92857f8647031b911cdc0_640.jpg"
     }
   ]
 }
